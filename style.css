@@ -11,7 +11,7 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: radial-gradient(#444,#aaa);
+  background-image: radial-gradient(#aaa,#444);
   position: relative;
   height: 100vh;
 
